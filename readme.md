@@ -8,8 +8,6 @@ Warning: Very loud noises and it's a rubbish game
 
 Note: Contains anti-Windows checks
 
-![Screenshot_20220118_204739.png](/Photos/Screenshot_20220118_204739.png?fileId=8187#mimetype=image%2Fpng&hasPreview=true)
-
 ## Play
 
 **Web**: <https://rocket-game.emffibns.repl.co/>
