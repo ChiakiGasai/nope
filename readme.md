@@ -10,7 +10,7 @@ Note: Contains anti-Windows checks
 
 ## Play
 
-**Web**: <https://rocket-game.emffibns.repl.co/>
+**Web**: <https://nope.emffibns.repl.co>
 
 ## Requirements
 
